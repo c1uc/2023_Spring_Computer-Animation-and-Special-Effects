@@ -1,0 +1,8 @@
+﻿  terrain.cpp
+F:\Code\CA\HW1\src\simulation\terrain.h(49,31): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+F:\Code\CA\HW1\src\simulation\terrain.h(65,63): warning C4244: '引數': 將 'double' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 6413 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  SoftSim.vcxproj -> F:\Code\CA\HW1\bin\SoftSim.exe

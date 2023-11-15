@@ -1,0 +1,9 @@
+﻿  kinematics.cpp
+F:\Code\CA\HW2\src\simulation\kinematics.cpp(65,23): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+F:\Code\CA\HW2\src\simulation\kinematics.cpp(65,61): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  1 of 8122 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    169 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  ForwardKinematics.vcxproj -> F:\Code\CA\HW2\bin\ForwardKinematics.exe
